@@ -1,0 +1,11 @@
+Optimal MDP | start=Green Park / East | p=0.80 | seed=42
+Optimal expected moves: 8.146484; VI sweeps: 47; residual: 3.312e-11
+  1  Green Park        Forward  intended=East  actual=East  -> Piccadilly Circus
+  2  Piccadilly Circus Forward  intended=East  actual=East  -> Covent Garden    
+  3  Covent Garden     Left     intended=North actual=North -> Chancery Lane    
+  4  Chancery Lane     Right    intended=East  actual=East  -> Bank             
+  5  Bank              Forward  intended=East  actual=East  -> Liverpool Street 
+  6  Liverpool Street  Right    intended=South actual=West  -> Bank              SLIP
+  7  Bank              Backward intended=East  actual=East  -> Liverpool Street 
+  8  Liverpool Street  Right    intended=South actual=South -> Tower Hill       
+Reached goal: true | moves=8 | blocked=0 | slips=1

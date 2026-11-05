@@ -1,0 +1,8 @@
+Built dist/london-agent.jar
+PASS  14 stations, 15 bidirectional roads, four source-map chains, connected goal
+PASS  Relative actions, normalized transitions, blocked moves, observed heading, absorbing goal
+PASS  All 56 deterministic states agree with independent breadth-first distances
+PASS  Optimality and independent (I-P)J=1 check at p=0, 0.2, 0.4, 0.8, 1
+PASS  100,000 transition samples; reproducible traces; Monte Carlo mean 8.1854 vs exact 8.1465
+PASS  Headless Swing integration: real step/reset controls, terminal disabling, start at goal
+ALL CHECKS PASSED (10685 assertions)

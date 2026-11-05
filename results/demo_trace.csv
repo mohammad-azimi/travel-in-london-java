@@ -1,0 +1,9 @@
+seed,reliability,controller,start,initial_heading,step,from,heading_before,action,intended,actual,to,heading_after,slipped,blocked
+42,0.8000,Optimal MDP,Green Park,East,1,Green Park,East,Forward,East,East,Piccadilly Circus,East,false,false
+42,0.8000,Optimal MDP,Green Park,East,2,Piccadilly Circus,East,Forward,East,East,Covent Garden,East,false,false
+42,0.8000,Optimal MDP,Green Park,East,3,Covent Garden,East,Left,North,North,Chancery Lane,North,false,false
+42,0.8000,Optimal MDP,Green Park,East,4,Chancery Lane,North,Right,East,East,Bank,East,false,false
+42,0.8000,Optimal MDP,Green Park,East,5,Bank,East,Forward,East,East,Liverpool Street,East,false,false
+42,0.8000,Optimal MDP,Green Park,East,6,Liverpool Street,East,Right,South,West,Bank,West,true,false
+42,0.8000,Optimal MDP,Green Park,East,7,Bank,West,Backward,East,East,Liverpool Street,East,false,false
+42,0.8000,Optimal MDP,Green Park,East,8,Liverpool Street,East,Right,South,South,Tower Hill,South,false,false

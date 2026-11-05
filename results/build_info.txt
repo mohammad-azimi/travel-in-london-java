@@ -1,0 +1,8 @@
+Target: Java 17 (class version 61)
+Compiler: OpenJDK javac 17.0.20
+Runtime: OpenJDK 17.0.20, Linux
+Compile: --release 17 -Xlint:all -encoding UTF-8
+Warnings: none
+Path containing spaces: build and deterministic rollout passed
+Native Windows GUI: to be tested on the user computer
+JAR SHA-256: 9f67287ad7b3331c7391d92aee725b3ee8f1fcaafa607505137f4c44e357ac71

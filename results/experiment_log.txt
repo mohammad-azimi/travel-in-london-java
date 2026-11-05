@@ -1,0 +1,11 @@
+Start: Green Park / East; base seed: 42; episodes per configuration: 10000; cap: 5000
+p=0.40  Optimal MDP          reached=10000/10000  mean= 22.7665 +/- 0.1131 (SE)  exact= 22.7396  p95=   44
+p=0.40  Shortest path (BFS)  reached=10000/10000  mean= 24.4684 +/- 0.1277 (SE)  exact= 24.3281  p95=   49
+p=0.40  Uniform random       reached=10000/10000  mean=117.7075 +/- 0.9548 (SE)  exact=118.9091  p95=  304
+p=0.80  Optimal MDP          reached=10000/10000  mean=  8.1854 +/- 0.0221 (SE)  exact=  8.1465  p95=   12
+p=0.80  Shortest path (BFS)  reached=10000/10000  mean=  8.1854 +/- 0.0221 (SE)  exact=  8.1465  p95=   12
+p=0.80  Uniform random       reached=10000/10000  mean=117.6039 +/- 0.9536 (SE)  exact=118.9091  p95=  308
+p=1.00  Optimal MDP          reached=10000/10000  mean=  6.0000 +/- 0.0000 (SE)  exact=  6.0000  p95=    6
+p=1.00  Shortest path (BFS)  reached=10000/10000  mean=  6.0000 +/- 0.0000 (SE)  exact=  6.0000  p95=    6
+p=1.00  Uniform random       reached=10000/10000  mean=118.6618 +/- 0.9746 (SE)  exact=118.9091  p95=  311
+CSV saved: /workspace/scratch/edf839f8be4c/london-agent-java/results/comparison.csv

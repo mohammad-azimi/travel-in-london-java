@@ -1,0 +1,57 @@
+station_id,station,heading,reliability,expected_steps,best_action,intended_bearing,terminal
+0,Green Park,North,1.0000,6.000000000,Right,East,false
+0,Green Park,East,1.0000,6.000000000,Forward,East,false
+0,Green Park,South,1.0000,6.000000000,Left,East,false
+0,Green Park,West,1.0000,6.000000000,Backward,East,false
+1,Piccadilly Circus,North,1.0000,5.000000000,Right,East,false
+1,Piccadilly Circus,East,1.0000,5.000000000,Forward,East,false
+1,Piccadilly Circus,South,1.0000,5.000000000,Left,East,false
+1,Piccadilly Circus,West,1.0000,5.000000000,Backward,East,false
+2,Covent Garden,North,1.0000,4.000000000,Forward,North,false
+2,Covent Garden,East,1.0000,4.000000000,Left,North,false
+2,Covent Garden,South,1.0000,4.000000000,Backward,North,false
+2,Covent Garden,West,1.0000,4.000000000,Right,North,false
+3,Chancery Lane,North,1.0000,3.000000000,Right,East,false
+3,Chancery Lane,East,1.0000,3.000000000,Forward,East,false
+3,Chancery Lane,South,1.0000,3.000000000,Left,East,false
+3,Chancery Lane,West,1.0000,3.000000000,Backward,East,false
+4,King's Cross,North,1.0000,3.000000000,Right,East,false
+4,King's Cross,East,1.0000,3.000000000,Forward,East,false
+4,King's Cross,South,1.0000,3.000000000,Left,East,false
+4,King's Cross,West,1.0000,3.000000000,Backward,East,false
+5,Baker Street,North,1.0000,4.000000000,Right,East,false
+5,Baker Street,East,1.0000,4.000000000,Forward,East,false
+5,Baker Street,South,1.0000,4.000000000,Left,East,false
+5,Baker Street,West,1.0000,4.000000000,Backward,East,false
+6,Bond Street,North,1.0000,5.000000000,Right,East,false
+6,Bond Street,East,1.0000,5.000000000,Forward,East,false
+6,Bond Street,South,1.0000,5.000000000,Left,East,false
+6,Bond Street,West,1.0000,5.000000000,Backward,East,false
+7,Oxford Circus,North,1.0000,4.000000000,Right,East,false
+7,Oxford Circus,East,1.0000,4.000000000,Forward,East,false
+7,Oxford Circus,South,1.0000,4.000000000,Left,East,false
+7,Oxford Circus,West,1.0000,4.000000000,Backward,East,false
+8,Old Street,North,1.0000,3.000000000,Backward,South,false
+8,Old Street,East,1.0000,3.000000000,Right,South,false
+8,Old Street,South,1.0000,3.000000000,Forward,South,false
+8,Old Street,West,1.0000,3.000000000,Left,South,false
+9,Moorgate,North,1.0000,2.000000000,Right,East,false
+9,Moorgate,East,1.0000,2.000000000,Forward,East,false
+9,Moorgate,South,1.0000,2.000000000,Left,East,false
+9,Moorgate,West,1.0000,2.000000000,Backward,East,false
+10,Bank,North,1.0000,2.000000000,Right,East,false
+10,Bank,East,1.0000,2.000000000,Forward,East,false
+10,Bank,South,1.0000,2.000000000,Left,East,false
+10,Bank,West,1.0000,2.000000000,Backward,East,false
+11,Liverpool Street,North,1.0000,1.000000000,Backward,South,false
+11,Liverpool Street,East,1.0000,1.000000000,Right,South,false
+11,Liverpool Street,South,1.0000,1.000000000,Forward,South,false
+11,Liverpool Street,West,1.0000,1.000000000,Left,South,false
+12,Monument,North,1.0000,3.000000000,Forward,North,false
+12,Monument,East,1.0000,3.000000000,Left,North,false
+12,Monument,South,1.0000,3.000000000,Backward,North,false
+12,Monument,West,1.0000,3.000000000,Right,North,false
+13,Tower Hill,North,1.0000,0.000000000,,,true
+13,Tower Hill,East,1.0000,0.000000000,,,true
+13,Tower Hill,South,1.0000,0.000000000,,,true
+13,Tower Hill,West,1.0000,0.000000000,,,true

@@ -1,0 +1,9 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {"type": "java", "name": "London Agent - GUI", "request": "launch", "mainClass": "london.Main", "cwd": "${workspaceFolder}", "console": "integratedTerminal"},
+    {"type": "java", "name": "London Agent - Tests", "request": "launch", "mainClass": "london.Main", "args": "--self-test", "vmArgs": "-Djava.awt.headless=true", "cwd": "${workspaceFolder}", "console": "integratedTerminal"},
+    {"type": "java", "name": "London Agent - Console demo", "request": "launch", "mainClass": "london.Main", "args": "--demo --seed 42 --output results/demo_trace.csv", "cwd": "${workspaceFolder}", "console": "integratedTerminal"},
+    {"type": "java", "name": "London Agent - Experiments", "request": "launch", "mainClass": "london.Main", "args": "--experiments --episodes 10000 --seed 42", "cwd": "${workspaceFolder}", "console": "integratedTerminal"}
+  ]
+}
